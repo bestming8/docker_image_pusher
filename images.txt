@@ -1,6 +1,7 @@
-jaegertracing/all-in-one:1.63.0
-grafana/tempo:latest
-ghcr.io/grafana/xk6-client-tracing:v0.0.5
-prom/prometheus:latest
-grafana/grafana:11.0.0
-otel/opentelemetry-collector:0.86.0
+#jaegertracing/all-in-one:1.63.0
+#grafana/tempo:latest
+#ghcr.io/grafana/xk6-client-tracing:v0.0.5
+#prom/prometheus:latest
+#grafana/grafana:11.0.0
+#otel/opentelemetry-collector:0.86.0
+quay.io/prometheus-operator/prometheus-operator:v0.78.2
