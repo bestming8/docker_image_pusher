@@ -5,4 +5,5 @@
 #grafana/grafana:11.0.0
 #otel/opentelemetry-collector:0.86.0
 #quay.io/prometheus-operator/prometheus-operator:v0.78.2
-prom/prometheus-config-reloader:v0.52.0
+#prom/prometheus-config-reloader:v0.52.0
+otel/opentelemetry-collector:latest
